@@ -1,2 +1,1 @@
-# everpsredirecthome
-Redirect Prestashop homepage to custom URL
+# Ever PS Redirect Homepage
